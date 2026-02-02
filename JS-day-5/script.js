@@ -27,3 +27,5 @@
 let str = "tu meri me tera me tera tu meri"
 let sp=str.split("r")
 console.log(sp)
+
+
