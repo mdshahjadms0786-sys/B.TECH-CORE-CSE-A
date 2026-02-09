@@ -34,15 +34,15 @@ console.log(date);
 
 // Set setInterval
 
-setInterval(() => {
-    let date = new Date()
-    console.log(date);
+// setInterval(() => {
+//     let date = new Date()
+//     console.log(date);
 
-    let hour = date.getHours();
-    let min = date.getMinutes();
-    let second = date.getSeconds();
+//     let hour = date.getHours();
+//     let min = date.getMinutes();
+//     let second = date.getSeconds();
 
-    let clock = document.getElementById
+//     let clock = document.getElementById
 
-}
+// }
 
